@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,city,payment_mode,status
+ORD-100291,CUST-4421,17-04-2024 08:12,Delhi,UPI,delivered
+ORD-100292,CUST-8834,17-04-2024 08:45,Mumbai,COD,cancelled
+ORD-100293,CUST-4421,17-04-2024 09:10,Delhi,Card,delivered
+ORD-100294,CUST-2201,17-04-2024 09:55,Bengaluru,UPI,returned

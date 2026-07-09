@@ -1,0 +1,5 @@
+item_id,order_id,product_id,product_name,category,qty,unit_price,discount
+ITM-0001,ORD-100291,PRD-501,Amul Butter 500g,Dairy,2,55,0
+ITM-0002,ORD-100291,PRD-209,Whole Wheat Bread,Bakery,1,45,5
+ITM-0003,ORD-100292,PRD-731,Tropicana 1L,Beverages,3,99,10
+ITM-0004,ORD-100294,PRD-501,Amul Butter 500g,Dairy,1,55,0
